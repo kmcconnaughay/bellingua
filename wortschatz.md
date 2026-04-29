@@ -6,6 +6,7 @@
 - der Code
 - das Programm / -e
 - der Texteditor / -en
+- das Terminal / -s
 
 ## Komputersprachen
 
